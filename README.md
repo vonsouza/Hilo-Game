@@ -21,14 +21,10 @@ Hilo is a game in which the player guesses if the next card drawn by the dealer 
 Points are won or lost based on whether or not the player guessed correctly.
 
 ## Interface
----
-![hilo-screenshot](https://github.com/vonsouza/Hilo-Game/assets/94578866/a066305d-5ce7-4795-acfa-689aa56f531f)
-
+![hilo-screenshot](https://github.com/vonsouza/Hilo-Game/assets/94578866/4e8ed1da-0f5c-49bf-b81e-b7cc359c3052)
 
 ## Required Technologies
----
 * Python 3.8.0
 
 ## Authors
----
-* Von Souza(souzavon@gmail.com)
+* Von Souza (souzavon@gmail.com)
